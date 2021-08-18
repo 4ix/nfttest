@@ -1,20 +1,31 @@
-[
-    {
-      "id": 0,
-      "description": "My NFT",
-      "image": "https://github.com/4ix/nfttest/raw/master/image/test.png",
-      "name": "Jaime 0 png"
-    },
+{
+  "posts": [
     {
       "id": 1,
-      "description": "My NFT",
-      "image": "https://github.com/4ix/nfttest/raw/master/image/test.svg",
-      "name": "Jaime 1 svg"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "description": "My NFT",
-      "image": "https://github.com/4ix/nfttest/raw/master/image/test.jpg",
-      "name": "Jaime 2 jpg"
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
