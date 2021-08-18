@@ -2,21 +2,21 @@
   "tokens": [
     {
       "id": 0,
-      "description": "png image form kansong server",
+      "description": "png image form kansong server(http)",
       "image": "http://kansong.org/nft/HAERYEBON.png",
       "name": "Jaime 0 png (kansong server)"
     },
     {
       "id": 1,
-      "description": "svg image from github public server",
-      "image": "https://github.com/4ix/nfttest/raw/master/image/test.svg",
-      "name": "Jaime 1 svg (github public)"
+      "description": "png image from github public server(https)",
+      "image": "https://kansong.org/nft/HAERYEBON.png",
+      "name": "Jaime 1 png (kansong server)"
     },
     {
       "id": 2,
-      "description": "jpg image from github public server",
-      "image": "https://github.com/4ix/nfttest/raw/master/image/test.jpg",
-      "name": "Jaime 2 jpg (github public)"
+      "description": "jpg image from github public server(http, www)",
+      "image": "http://www.kansong.org/nft/HAERYEBON.png",
+      "name": "Jaime 2 png (kansong server)"
     }
   ]
 }
